@@ -538,7 +538,7 @@ IDM_COMPANIES = [
         "위치": "경기 이천(부발읍 - 본사/DRAM), 충북 청주(흥덕구 - NAND), 용인(원삼-예정)",
         "스펙": "학점 3.5+ / SKCT 난이도 최상 / '직무 면접'이 매우 깊이 있음 (전공 지식)",
         "Tip": "청주 사업장(NAND/Solution) 지원 시 경쟁률 측면에서 전략적일 수 있음.",
-        "링크": "https://www.skhynix-careers.com/",
+        "링크": "https://recruit.skhynix.com/servlet/mnus_main.view",
     },
     {
         "기업": "DB하이텍",
@@ -556,14 +556,14 @@ FABLESS_COMPANIES = [
         "주력": "디스플레이 구동칩(DDI) 설계 (국내 1위)",
         "위치": "서울 양재, 대전 유성구 (R&D 캠퍼스)",
         "스펙": "전자/컴공 석사 선호 / Verilog, FPGA 역량 / 학사 지원 시 프로젝트 필수",
-        "링크": "https://lxsemicon.recruiter.co.kr/",
+        "링크": "https://www.lxsemicon.com/kr/company/recruitment-information/application",
     },
     {
         "기업": "텔레칩스 / 칩스앤미디어",
         "주력": "차량용 인포테인먼트(IVI) / 비디오 IP",
         "위치": "경기 성남(판교), 서울 강남",
         "스펙": "C/C++, 임베디드 SW, 디지털 논리회로 이해도 / 시스템 반도체 교육 우대",
-        "링크": "https://telechips.recruiter.co.kr/",
+        "링크": "https://careers.telechips.com/",
     },
 ]
 
@@ -573,21 +573,21 @@ OSAT_COMPANIES = [
         "주력": "반도체 패키징 및 테스트 (삼성/SK 협력)",
         "위치": "충남 아산(음봉면), 경기 판교(R&D)",
         "스펙": "전기/전자/기계/재료 / 품질(QC/QA) 직무 T/O 많음",
-        "링크": "http://www.hanamicron.com/",
+        "링크": "https://hanamicron.recruiter.co.kr/career/home",
     },
     {
         "기업": "SFA반도체",
         "주력": "반도체 조립 및 테스트",
         "위치": "충남 천안(서북구)",
         "스펙": "학점 3.2~3.5 / 3교대 근무 가능자(엔지니어 일부) / 오픽 IM1+",
-        "링크": "https://sfa.recruiter.co.kr/",
+        "링크": "https://recruit.sfa.co.kr/",
     },
     {
         "기업": "네패스 (Nepes)",
         "주력": "WLP, PLP (첨단 패키징)",
         "위치": "충북 청주(오창), 괴산(청안)",
         "스펙": "화학/신소재 선호 / 차세대 패키징 기술 관심도 / 영어 독해 능력",
-        "링크": "https://nepes.recruiter.co.kr/",
+        "링크": "https://careers.nepes.co.kr/",
     },
 ]
 
@@ -598,7 +598,7 @@ FOREIGN_EQUIP = [
         "위치": "경기 화성(동탄), 평택, 이천, 청주 (고객사 팹 내부 상주)",
         "스펙": "[필수] 영어 회화(OPIc IM3~IH) / 전자회로, 기구학 / CS는 교대 근무 있음",
         "Tip": "서류-AI역검-영어Test-면접 순. 영어 면접 대비 필수.",
-        "링크": "https://www.asml.com/en/careers",
+        "링크": "https://midasin-asmlkorea.recruiter.co.kr/career/home",
     },
     {
         "기업": "AMAT / Lam / TEL",
@@ -623,14 +623,14 @@ LOCAL_EQUIP = [
         "주력": "고압 수소 어닐링 장비 (세계 유일 기술)",
         "위치": "경기 화성(동탄)",
         "스펙": "최근 급성장 중 / 기계설계, 공정 엔지니어 / 외국어 가능자 우대",
-        "링크": "http://www.hpsp.co.kr/",
+        "링크": "https://thehpsp.com/ko/bbs/board.php?bo_table=career",
     },
     {
         "기업": "솔브레인 / 동진쎄미켐",
         "주력": "식각액 / 포토레지스트 (PR)",
         "위치": "경기 판교(R&D), 충남 공주(솔브레인), 경기 화성(동진)",
         "스펙": "화학공학, 신소재 전공 필수 / 위험물산업기사, 화공기사 우대",
-        "링크": "https://soulbrain.recruiter.co.kr/",
+        "링크": "https://www.soulbrain.co.kr/m64.php?tab=1",
     },
 ]
 
